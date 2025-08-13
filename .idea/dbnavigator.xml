@@ -49,7 +49,6 @@
   <component name="DBNavigator.Project.FileConnectionMappingManager">
     <mapping file-url="file://$PROJECT_DIR$/SQL/retail-app-sql/05-console-2025.sql" connection-id="5ae4313c-d370-4bf9-b02c-b8841fc6b054" session-id="MAIN" current-schema="retailapp" />
     <mapping file-url="file://$PROJECT_DIR$/SQL/admin/schema-creation.sql" connection-id="5ae4313c-d370-4bf9-b02c-b8841fc6b054" session-id="MAIN" current-schema="retailapp" />
-    <mapping file-url="file://$PROJECT_DIR$/SQL/retail-app-sql/02-ddl-and-dml.sql" connection-id="5ae4313c-d370-4bf9-b02c-b8841fc6b054" session-id="MAIN" current-schema="retailapp" />
   </component>
   <component name="DBNavigator.Project.ObjectQuickFilterManager">
     <last-used-operator value="EQUAL" />
